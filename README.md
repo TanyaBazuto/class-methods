@@ -1,6 +1,6 @@
 # Домашнее задание к лекции «Классы, наследование»
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/6qt95ofyxhjlmben?svg=true)](https://ci.appveyor.com/project/TanyaBazuto/class-methods)
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
